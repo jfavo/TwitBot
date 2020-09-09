@@ -15,3 +15,5 @@ which we need for an operational twitter bot. You will need the API key, API key
 - When you are satisfied, click back and now we can turn the bot on. The activity log will update the user on what the bot does.
 - Now that the bot is active, you just sit back and wait for your target twitter users to tweet
 
+# Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rkkB53jcEug/0.jpg)](https://youtu.be/rkkB53jcEug)
